@@ -2,14 +2,16 @@
 
 
             ✨ Check me out on LinkedIn: ✨
-   	       ⚡Contact me on linkedIn⚡
+   	    ⚡Contact me on linkedIn or - 📫 Email⚡
+		
+
+	✨Stephen.A.SmithDev@gmail.com or StephenASmith7178@gmail.com✨
+		
+		![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png)
+		https://www.linkedin.com/in/-Stephen-A-Smith-/
 
 - 🔭 I’m currently working on REACT Application called FitGeneration application
-- 🌱 I’m currently learning C#, .net(Runtime) Front/Back-End Development		
-- 📫 Email me: ...
-	✨Stephen.A.SmithDev@gmail.com or StephenASmith7178@gmail.com✨
-		https://www.linkedin.com/in/-Stephen-A-Smith-/
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning C#, .net(Runtime) Front/Back-End Development
 
 _  Fit-Generation...
 
