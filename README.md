@@ -2,7 +2,7 @@
 
 
             ✨ Check me out on LinkedIn: ✨
-        ⚡ ![](linkedin.com/in/-Stephen-A-Smith-) ⚡
+        ⚡ ✨linkedin.com/in/-Stephen-A-Smith-✨ ⚡
 
 - 🔭 I’m currently working on REACT Application called FitGeneration application
 - 🌱 I’m currently learning C#, .net(Runtime) Front/Back-End Development		
