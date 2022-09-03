@@ -8,8 +8,8 @@
 	✨Stephen.A.SmithDev@gmail.com or StephenASmith7178@gmail.com✨
 		https://www.linkedin.com/in/-Stephen-A-Smith-/
 
-- 🔭 I’m currently working on REACT Application called FitGeneration application
-- 🌱 I’m currently learning C#, .net(Runtime) Front/Back-End Development
+- 🔭 I’m currently working on Backend SQL/Linq methodologies 
+- 🌱 Expanding knowledge base in C#, .net(Runtime) Front/Back-End Development
 
 _  Fit-Generation Application...
 
