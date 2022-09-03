@@ -11,6 +11,6 @@
 - 🔭 I’m currently working on REACT Application called FitGeneration application
 - 🌱 I’m currently learning C#, .net(Runtime) Front/Back-End Development
 
-_  Fit-Generation...
+_  Fit-Generation Application...
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
