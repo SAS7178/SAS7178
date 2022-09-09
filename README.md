@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://www.canva.com/design/DAFK8uMaC8M/mIVlvRB6swCFJOzlcrcWdQ/edit?utm_content=DAFK8uMaC8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![]([https://www.canva.com/design/DAFK8uMaC8M/mIVlvRB6swCFJOzlcrcWdQ/edit?utm_content=DAFK8uMaC8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFK8uMaC8M/mIVlvRB6swCFJOzlcrcWdQ/edit?utm_content=DAFK8uMaC8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
             ✨ Check me out on LinkedIn: ✨
    	    ⚡Contact me on linkedIn or - 📫 Email⚡
