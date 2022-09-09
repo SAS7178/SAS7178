@@ -1,17 +1,19 @@
-### Hi there 👋
 
-![]([https://www.canva.com/design/DAFK8uMaC8M/mIVlvRB6swCFJOzlcrcWdQ/edit?utm_content=DAFK8uMaC8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFK8uMaC8M/mIVlvRB6swCFJOzlcrcWdQ/edit?utm_content=DAFK8uMaC8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
-            ✨ Check me out on LinkedIn: ✨
-   	    ⚡Contact me on linkedIn or - 📫 Email⚡
+![](https://github.com/SAS7178/project-gifs/blob/main/public/Linkin%20in%20Banner.png)
+
+           					 ✨ Check me out on LinkedIn: ✨
+   					    ⚡Contact me on linkedIn or - 📫 Email⚡
 		
 
-	✨Stephen.A.SmithDev@gmail.com or StephenASmith7178@gmail.com✨
-		https://www.linkedin.com/in/-Stephen-A-Smith-/
+						✨Stephen.A.SmithDev@gmail.com✨
+				           https://www.linkedin.com/in/-Stephen-A-Smith-/
 
 - 🔭 I’m currently working on Backend SQL/Linq methodologies 
 - 🌱 Expanding knowledge base in C#, .net(Runtime) Front/Back-End Development
 
-_  Fit-Generation Application...
+
+
+	_  Fit-Generation Application Preview...
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
