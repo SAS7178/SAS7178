@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://www.canva.com/design/DAFK8uMaC8M/7cjBPA_DSlDB3Ow6vmrmUg/view?utm_content=DAFK8uMaC8M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
             ✨ Check me out on LinkedIn: ✨
    	    ⚡Contact me on linkedIn or - 📫 Email⚡
