@@ -9,8 +9,8 @@
 						✨Stephen.A.SmithDev@gmail.com✨
 				           https://www.linkedin.com/in/-Stephen-A-Smith-/
 
-- 🔭 I’m currently working on Backend SQL/Linq methodologies 
-- 🌱 Expanding knowledge base in C#, .net(Runtime) Front/Back-End Development
+- 🔭 I’m currently working on Backend C# SQL .NET FRameworks builing fullstack applications using VS and VScode for clientside
+- 🌱 Searching to find my way into my new career as a Developer contact me!
 
 
 
