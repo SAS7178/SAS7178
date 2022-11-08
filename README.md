@@ -18,7 +18,7 @@
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/thefooderGif1.gif?raw=true)
-
+![](https://github.com/SAS7178/project-gifs/blob/main/public/thefooderGif2.gif?raw=true)
 ### Skills
 
 <p align="left">
