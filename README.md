@@ -17,6 +17,7 @@
 	_  Fit-Generation Application Preview...
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
+![](https://github.com/SAS7178/project-gifs/blob/main/public/thefooderGif1.gif?raw=true)
 
 ### Skills
 
