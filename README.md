@@ -18,6 +18,8 @@
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
 
+<b>Get a peek Fit-Generation UI!</b> (Pardon our progress...backend functionality under construction.)
+		https://63780136b5af54324beab9d5--fitgeneration.netlify.app/
 
 	_  The-Fooder Application Previews...
 				
@@ -30,8 +32,7 @@
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/thefooderGif2.gif?raw=true)
 
 <b>Get a peek TheFooder UI!</b> (Pardon our progress...backend functionality under construction.)
-
-https://6377ed5a662f72221e089a4d--thefooder.netlify.app/
+		https://6377ed5a662f72221e089a4d--thefooder.netlify.app/
 				
 ### Skills
 
