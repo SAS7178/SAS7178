@@ -18,6 +18,11 @@
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
 
+Get a peek frontend UI (pardon our progress...backend functionality under construction.)
+
+https://6377ed5a662f72221e089a4d--thefooder.netlify.app/
+
+
 	_  The-Fooder Application Previews...
 				
 				HomePage
