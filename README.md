@@ -33,6 +33,9 @@
 
 <b>Get a peek TheFooder UI!</b> (Pardon our progress...backend functionality under construction.)
 		https://6377ed5a662f72221e089a4d--thefooder.netlify.app/
+		
+		Login with Email: stephen@Smith.com
+		Pwd: smithers
 				
 ### Skills
 
