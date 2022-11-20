@@ -9,8 +9,8 @@
 						✨Stephen.A.SmithDev@gmail.com✨
 				           https://www.linkedin.com/in/-Stephen-A-Smith-/
 
-- 🔭 I’m currently working on Backend C# SQL .NET Frameworks builing fullstack applications using VS and VScode for clientside
-- 🌱 Searching to find my way into my new career as a Developer contact me!
+- 🔭 I’m currently working on learning React Native for mobile applications and previous project deployment 
+- 🌱 Looking for new opportunities in my career as a Software Developer contact me!
 
 ##
 ##
