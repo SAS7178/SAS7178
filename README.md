@@ -12,31 +12,37 @@
 - 🔭 I’m currently working on Backend C# SQL .NET Frameworks builing fullstack applications using VS and VScode for clientside
 - 🌱 Searching to find my way into my new career as a Developer contact me!
 
-
-
-	_  Fit-Generation Application Preview...
+##
+##
+-	_ <b> Fit-Generation Preview...</b>
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
 
-<b>Get a peek Fit-Generation UI!</b> (Pardon our progress...backend functionality under construction.)
-		https://63780136b5af54324beab9d5--fitgeneration.netlify.app/
+<b>Deployed Fit-Generation!</b> 
+(Pardon our progress...backend functionality under construction.)
 
-	_  The-Fooder Application Previews...
+https://63780136b5af54324beab9d5--fitgeneration.netlify.app/		
+
+		Login: stephen@gmail.com
+		Pwd: smithers
+
+##
+-	_  <b>The-Fooder Previews...</b>
 				
-
-				HomePage
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/thefooderGif1.gif?raw=true)
-
+##
 				
-				UserPage
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/thefooderGif2.gif?raw=true)
 
-<b>Get a peek TheFooder UI!</b> (Pardon our progress...backend functionality under construction.)
-		https://6377ed5a662f72221e089a4d--thefooder.netlify.app/
+<b>Deployed TheFooder!</b> 
+(Pardon our progress...backend functionality under construction.)
 		
-		Login with Email: stephen@Smith.com
+https://6377ed5a662f72221e089a4d--thefooder.netlify.app/
+		
+		Login: stephen@Smith.com
 		Pwd: smithers
-				
+##	
+##
 ### Skills
 
 <p align="left">
