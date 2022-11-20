@@ -21,7 +21,7 @@
 <b>Deployed Fit-Generation!</b> 
 (Pardon our progress...backend functionality under construction.)
 
-https://63780136b5af54324beab9d5--fitgeneration.netlify.app/		
+https://fitgeneration.netlify.app/	
 
 		Login: stephen@gmail.com
 		Pwd: smithers
@@ -37,7 +37,7 @@ https://63780136b5af54324beab9d5--fitgeneration.netlify.app/
 <b>Deployed TheFooder!</b> 
 (Pardon our progress...backend functionality under construction.)
 		
-https://6377ed5a662f72221e089a4d--thefooder.netlify.app/
+https://thefooder.netlify.app/
 		
 		Login: stephen@Smith.com
 		Pwd: smithers
