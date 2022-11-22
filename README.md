@@ -23,7 +23,8 @@
 
 visit site: https://fitgeneration.netlify.app/	
 
-see repo: https://github.com/SAS7178/TheFooder
+see repo: https://github.com/SAS7178/fit-generation
+<br>see API repo: https://github.com/SAS7178/Fit-Generation-API
 
 		Login: stephen@gmail.com
 		Pwd: smithers
@@ -41,8 +42,8 @@ see repo: https://github.com/SAS7178/TheFooder
 		
 visit site: https://thefooder.netlify.app/
 
-see repo: https://github.com/SAS7178/fit-generation
-<br>see API repo: https://github.com/SAS7178/Fit-Generation-API
+see repo: https://github.com/SAS7178/TheFooder
+
 		
 		Login: stephen@Smith.com
 		Pwd: smithers
