@@ -21,7 +21,9 @@
 <b>Deployed Fit-Generation!</b> 
 (Pardon our progress...backend functionality under construction.)
 
-https://fitgeneration.netlify.app/	
+visit site: https://fitgeneration.netlify.app/	
+
+see repo: https://github.com/SAS7178/TheFooder
 
 		Login: stephen@gmail.com
 		Pwd: smithers
@@ -37,7 +39,10 @@ https://fitgeneration.netlify.app/
 <b>Deployed TheFooder!</b> 
 (Pardon our progress...backend functionality under construction.)
 		
-https://thefooder.netlify.app/
+visit site: https://thefooder.netlify.app/
+
+see repo: https://github.com/SAS7178/fit-generation
+<br>see API repo: https://github.com/SAS7178/Fit-Generation-API
 		
 		Login: stephen@Smith.com
 		Pwd: smithers
