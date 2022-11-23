@@ -21,7 +21,8 @@
 <b>Deployed Fit-Generation!</b> 
 (Pardon our progress...backend functionality under construction.)
 
-visit site: https://fitgeneration.netlify.app/	
+visit site: https://fitgeneration.netlify.app/ (the database goes to sleep after a short time, so if you see undefined, refresh page to wake it up! )
+
 
 see repo: https://github.com/SAS7178/fit-generation
 <br>see API repo: https://github.com/SAS7178/Fit-Generation-API
@@ -40,7 +41,7 @@ see repo: https://github.com/SAS7178/fit-generation
 <b>Deployed TheFooder!</b> 
 (Pardon our progress...backend functionality under construction.)
 		
-visit site: https://thefooder.netlify.app/
+visit site: https://thefooder.netlify.app/ 
 
 see repo: https://github.com/SAS7178/TheFooder
 
