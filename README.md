@@ -13,7 +13,6 @@
 - 🌱 Looking for new opportunities in my career as a Software Developer contact me!
 
 ##
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ##
 -	_ <b> Fit-Generation Preview...</b>
 
@@ -49,11 +48,12 @@ see repo: https://github.com/SAS7178/TheFooder
 		
 		Login: stephen@Smith.com
 		Pwd: smithers
-##	
 ##
-<!-- Markdown -->
+Coder Joke Break....
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### Skills
 
 <p align="left">
