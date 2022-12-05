@@ -18,17 +18,13 @@
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
 
-<b>Deployed Fit-Generation!</b> 
-(Pardon our progress...backend functionality under construction.)
+<b>Deployed Fit-Generation!</b> visit site: https://fitgeneration.netlify.app/
+<br>Just register and sign in!
 
-visit site: https://fitgeneration.netlify.app/ (the database goes to sleep after a short time, so if you see undefined, refresh page to wake it up! )
+repo: https://github.com/SAS7178/fit-generation (currently configured endpoints set to ping Glitch)
+<br>(remote)API repo: https://github.com/SAS7178/fit-GenAPI-Glitch (currently deployed)
+<br>(local)API repo: https://github.com/SAS7178/Fit-Generation-API 
 
-
-see repo: https://github.com/SAS7178/fit-generation
-<br>see API repo: https://github.com/SAS7178/Fit-Generation-API
-
-		Login: stephen@gmail.com
-		Pwd: smithers
 
 ##
 -	_  <b>The-Fooder Previews...</b>
@@ -38,16 +34,12 @@ see repo: https://github.com/SAS7178/fit-generation
 				
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/thefooderGif2.gif?raw=true)
 
-<b>Deployed TheFooder!</b> 
-(Pardon our progress...backend functionality under construction.)
-		
-visit site: https://thefooder.netlify.app/ 
+<b>Deployed TheFooder!</b>  
+<br>visit site: https://thefooder.netlify.app/ 
+<br>(Pardon our progress...backend functionality under construction.)
 
-see repo: https://github.com/SAS7178/TheFooder
-
+repo: https://github.com/SAS7178/TheFooder (front-end(only) currently deployed through Netlify)
 		
-		Login: stephen@Smith.com
-		Pwd: smithers
 ##
 Coder Joke Break....
 <!-- HTML -->
