@@ -10,7 +10,7 @@
 				           https://www.linkedin.com/in/-Stephen-A-Smith-/
 
 - 🔭 I’m currently working on learning React Native for mobile and I just created my own AI Chatbot using OpenAI 
-- Named Smithers https://chatbotai-six.vercel.app/ (Try it here!) 
+- Named Smithers(John): https://chatbotai-six.vercel.app/ (Try it here!) 
 - 🌱 Looking for new opportunities in my career as a Software Developer contact me!
 
 ##
