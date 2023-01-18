@@ -31,6 +31,9 @@ repo: https://github.com/SAS7178/fit-generation (currently configured endpoints 
 
 
 ##
+The goal, in this application build was to provide an individual with easy convenient tools to create/find and save recipes, aswell as the instruct ions/ingredients and image/video to view personalized page with created and saved recipes based on their unique to them.
+
+This project was my first solo sprint full-stack application using Javascript(React) on front-end and C#/SQL Database on back-end, where I created both UI/Database and styling...I also implemented fetched' remote API data, in addition to creating my own local database-API which is included in this repo.
 -	_  <b>The-Fooder Previews...</b>
 				
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/thefooderGif1.gif?raw=true)
