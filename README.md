@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on learning Puppeteer and Nodemailer for TDD aplicational use. I just love learnig new techs and the different ways I can functionally impliment them with techs I already have experience! I just created my own AI Chatbot(UI) using OpenAI for my AIendpoint.(after a bit of fine tuning) 
 - (Ask Smithers...)https://chatbotai-six.vercel.app/ (Try it here!)(First response takes a moment to wake the server up.) 
-- 🌱 Looking for new opportunities in my career as a Software Developer contact me!
+- 🌱 Always Looking for new opportunities in my Software Developer career contact me!
 
 ##
 ##
