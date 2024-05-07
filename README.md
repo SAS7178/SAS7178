@@ -10,7 +10,7 @@
 				           https://www.linkedin.com/in/-Stephen-A-Smith-/
 
 - 🔭 I’m currently working on learning Puppeteer and Nodemailer for TDD aplicational use. I just love learnig new techs and the different ways I can functionally impliment them with techs I already have experience! I just created my own AI Chatbot(UI) using OpenAI for my AIendpoint.(after a bit of fine tuning) 
-- (Ask Smithers...)https://chatbotai-six.vercel.app/ (Try it here!)(First response takes a moment to wake the server up.) Unfortunately the free trial period for OpenAi ended for this account. :/
+- (Ask Smithers...)https://chatbotai-six.vercel.app/ (Try it here!)(First response takes a moment to wake the server up.) Unfortunately the free trial period for OpenAi ended for this account(Apparently AI data queries are all the rage right now!). If interested in funding your own working version contact me.
 - 🌱 Always Looking for new opportunities in my Software Development career contact me!
 
 ##
