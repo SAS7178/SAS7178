@@ -24,6 +24,7 @@ I used Netlify for front-end deployment, and Glitch for my backend server with n
 
 <b>Deployed Fit-Generation!</b> visit site: https://fitgeneration.netlify.app/
 <br>Just register and sign in!
+<br>To see a sample account login using: stephen@gmail.com 
 
 repo: https://github.com/SAS7178/fit-generation (currently configured endpoints set to ping Glitch)
 <br>(remote)API repo: https://github.com/SAS7178/fit-GenAPI-Glitch (currently deployed)
