@@ -44,6 +44,8 @@ This project was my first solo sprint full-stack application using Javascript(Re
 
 <b>Deployed TheFooder!</b>  
 <br>visit site: https://thefooder.netlify.app/ 
+<br>To see example application profile use login: 
+<br>Email: stephen@Smith.com  Password: smithers
 <br>(Pardon our progress...backend functionality under construction.)
 
 repo: https://github.com/SAS7178/TheFooder (front-end(only) currently deployed through Netlify)
