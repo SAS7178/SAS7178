@@ -9,15 +9,15 @@
 						✨Stephen.A.SmithDev@gmail.com✨
 				           https://www.linkedin.com/in/-Stephen-A-Smith-/
 
-- 🔭 I’m currently working on learning Puppeteer and Nodemailer for TDD aplicational use. I just love learnig new techs and the different ways I can functionally impliment them with techs I already have experience! I just created my own AI Chatbot(UI) using OpenAI for my AIendpoint.(after a bit of fine tuning) 
-- (Ask Smithers...)https://chatbotai-six.vercel.app/ (Try it here!)(First response takes a moment to wake the server up.) Unfortunately the free trial period for OpenAi ended for this account(Apparently AI data queries are all the rage right now!). If interested in funding your own working version contact me.
+- 🔭 I’m currently working on learning Puppeteer and Nodemailer for TDD aplicational use. I just love learnig new techs and the different ways I can functionally implement them with techs I already have experience! I just created my own AI Chatbot(UI) using OpenAI for my AI endpoint(after a bit of fine tuning).
+- (Ask Smithers...)https://chatbotai-six.vercel.app/ (Try it here!)(First response takes a moment to wake the free server up.) Unfortunately the free trial period for OpenAi ended for this account(Apparently AI data queries are all the rage right now!). If interested in funding your own working version contact me.
 - 🌱 Always Looking for new opportunities in my Software Development career contact me!
 
 ##
 ##
 This project was my first solo sprint front-end application, where I created both UI and styling...I also implemented fetched' remote API data, in addition to creating my own local database-API(fit-generation-API) which has its own repo.(link is provided below in the, Running This Application section).
 
-I used Netlify for front-end deployment, and Glitch for my backend server with node.js, previously Heroku before they cancelled the free serving option. I also implimented Cloudinary API for my users saved progress images on their profile page.
+I used Netlify for front-end deployment, and Glitch for my backend server with node.js, previously Heroku before they cancelled the free serving option. I also implemented Cloudinary API for my users saved progress images on their profile page.
 -	_ <b> Fit-Generation Preview...</b>
 
 ![](https://github.com/SAS7178/project-gifs/blob/main/public/Fit-Gen%20Gif.gif?raw=true)
@@ -32,7 +32,7 @@ repo: https://github.com/SAS7178/fit-generation (currently configured endpoints 
 
 
 ##
-The goal, in this application build was to provide an individual with easy convenient tools to create/find and save recipes, aswell as the instruct ions/ingredients and image/video to view personalized page with created and saved recipes based on their unique to them.
+The goal, in this application build was to provide an individual with easy convenient tools to create/find and save recipes, aswell as the instruct ions/ingredients and image/video to view personalized page with created and saved recipes unique to them.
 
 This project was my first solo sprint full-stack application using Javascript(React) on front-end and C#/SQL Database on back-end, where I created both UI/Database and styling...I also implemented fetched' remote API data, in addition to creating my own local database-API which is included in this repo.
 -	_  <b>The-Fooder Previews...</b>
